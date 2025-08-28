@@ -24,5 +24,3 @@ Data_Cleaning/
 │── README.md
 │── requirements.txt
 
-## 📊 Dataset
-📁 Location: ["C:\Users\Dikesh Chavhan\OneDrive\Desktop\Customer Call List.xlsx"](data/sample_dataset.xlsx)  
